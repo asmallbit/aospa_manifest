@@ -35,7 +35,7 @@
   <project name="device/qcom/qssi"/>
   <project name="device/qcom/qssi_32"/>
   <project name="device/qcom/qssi_32go"/>
-  <project name="device/qcom/sepolicy"/>
+  <!--<project name="device/qcom/sepolicy"/>-->
   <project name="device/sample"/>
   <project name="kernel/configs"/>
   <project name="kernel/prebuilts/4.19/arm64"/>
@@ -924,7 +924,7 @@
   <project name="platform/system/nfc" path="system/nfc"/>
   <project name="platform/system/nvram" path="system/nvram"/>
   <project name="platform/system/security" path="system/security"/>
-  <project name="platform/system/sepolicy" path="system/sepolicy"/>
+  <!--<project name="platform/system/sepolicy" path="system/sepolicy"/>-->
   <project name="platform/system/server_configurable_flags" path="system/server_configurable_flags"/>
   <project name="platform/system/teeui" path="system/teeui"/>
   <project name="platform/system/testing/gtest_extras" path="system/testing/gtest_extras"/>
